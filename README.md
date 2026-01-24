@@ -1,4 +1,4 @@
-# KnowledgeSpiralMethod
+# KnowledgeIntegrationSpiralMethod
 
 ## License
 
