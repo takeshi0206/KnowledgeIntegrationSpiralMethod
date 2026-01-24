@@ -1,5 +1,10 @@
 # KnowledgeIntegrationSpiralMethod
 
+Projects end. Systems don't.
+Tackling that asymmetry with structure, not slogans.
+
+KISM replaces vague "improve communication" with process design that ensures long-term maintainability.
+
 ## License
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
